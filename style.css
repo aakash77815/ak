@@ -1,6 +1,7 @@
 li{
     font-family: 'Times New Roman', Times, serif;
-    color: black;
+    color: goldenrod;
+    font-size: larger;
 }
 body{
     background-color: darkslategray;
